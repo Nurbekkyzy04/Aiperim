@@ -1,0 +1,14 @@
+.nav-item .nav-link {
+  color : #ffffff ! important;
+  font-size: 22px;
+  text-transform: uppercase;
+  margin-left: 45px;
+}
+
+body{
+/* background-image: url('https: //catherineasquithgallery.com/uploads/posts/2021-02/1614412037_6-p-ovoshchi-na-temnom-fone-8.jpg'); */
+  /* background-repeat: no-repeat; */
+
+  background-color:#b8f1f1;
+  color:#000000;
+}
